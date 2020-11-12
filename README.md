@@ -1,11 +1,11 @@
-# Anuto - Another Ugly Tower Defense
+# Tower Defense
 
 ![Travis-ci](https://api.travis-ci.org/reloZid/android-anuto.svg)
 
 <img src="./images/feature.png" width="400" />
 
 Anuto is yet another tower defense game for Android.
-However it features astonishing hand-drawn graphics and a smooth gameplay.
+**Tachjen Gruppe hier muss dann bald unser Text rein.**
 
 ## Download
 
