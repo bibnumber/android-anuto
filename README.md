@@ -5,6 +5,7 @@
 <img src="./images/feature.png" width="400" />
 
 Anuto is yet another tower defense game for Android.
+
 **Tachjen Gruppe hier muss dann bald unser Text rein.**
 
 ## Download
