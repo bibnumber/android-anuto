@@ -1,23 +1,12 @@
-# Tower Defense
+# PTSD - Pixel Tower Symphonic Defence
 
-![Travis-ci](https://api.travis-ci.org/reloZid/android-anuto.svg)
-
-<img src="./images/feature.png" width="400" />
-
-Anuto is yet another tower defense game for Android.
+PTSD is yet another tower defense game for Android, although really it's a modded fork of the great [Anuto - Another Ugly Tower Defense](https://github.com/reloZid/android-anuto).
 
 **Tachjen Gruppe hier muss dann bald unser Text rein.**
 
 ## Download
 
-<a href="https://f-droid.org/packages/ch.logixisland.anuto" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=ch.logixisland.anuto" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="100"/></a>
-
-## Beta Testing
-
-Become a [beta tester](https://play.google.com/apps/testing/ch.logixisland.anuto)!
+A first testing candidate will be released shortly...
 
 ## How to play
 
