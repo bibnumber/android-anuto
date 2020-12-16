@@ -23,11 +23,11 @@
         <item name="weakAgainstColor">#009000</item>
         <item name="strongAgainstColor">#c00000</item>
 
-        <item name="base1">@drawable/tower_base1</item>
+        <item name="base1">@drawable/tower_base1_co</item>
         <item name="base2">@drawable/tower_base2</item>
         <item name="base3">@drawable/tower_base3</item>
         <item name="base4">@drawable/tower_base4</item>
-        <item name="base5">@drawable/tower_base5</item>
+        <item name="base5">@drawable/tower_base5_co</item>
         <item name="blob">@drawable/blob_co</item>
         <item name="canon">@drawable/canon_co</item>
         <item name="canonDual">@drawable/canon_dual_co</item>
