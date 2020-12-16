@@ -2,8 +2,6 @@
 
 PTSD is yet another tower defense game for Android, although really it's a modded fork of the great [Anuto - Another Ugly Tower Defense](https://github.com/reloZid/android-anuto).
 
-**Tachjen Gruppe hier muss dann bald unser Text rein.**
-
 ## Download
 
 A first testing candidate will be released shortly...
