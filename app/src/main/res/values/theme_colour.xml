@@ -39,7 +39,7 @@
         <item name="glueGun">@drawable/glue_gun_co</item>
         <item name="glueShot">@drawable/glue_shot_co</item>
         <item name="glueTowerGun">@drawable/glue_tower_gun_co</item>
-        <item name="grenade">@drawable/grenade</item>
+        <item name="grenade">@drawable/grenade_co</item>
         <item name="healer">@drawable/healer_co</item>
         <item name="laserTower1">@drawable/laser_tower1_co</item>
         <item name="laserTower2">@drawable/laser_tower2_co</item>
