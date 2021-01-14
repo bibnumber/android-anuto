@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Anuto TD</string>
+    <string name="app_name">PTSD</string>
 
     <string name="menu">Menu</string>
     <string name="build_tower">Build</string>
@@ -86,7 +86,7 @@
     <string name="got_it">Got It!</string>
     <string name="skip_tutorial">Skip Tutorial</string>
 
-    <string name="tutorial_build_tower">Welcome to Anuto TD! Start by building a tower: Drag a tower from the inventory on top onto the playground.</string>
+    <string name="tutorial_build_tower">Welcome to PTSD! Your instruments are towers, start by building a tower: Drag a tower from the inventory on top onto the playground.</string>
     <string name="tutorial_credits">If the price tag of a tower becomes red, you don\'t have enough credits to buy this tower. You earn credits by killing enemies and finishing waves.</string>
     <string name="tutorial_tower_options_1">Tap a tower to view its range, tap it again to open its menu for more options.</string>
     <string name="tutorial_tower_options_2">The strategy defines how the tower chooses its target. Lock target means that the tower will not switch target as long as the current target stays within range.</string>
