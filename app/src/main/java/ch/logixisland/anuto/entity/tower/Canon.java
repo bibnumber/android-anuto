@@ -44,7 +44,7 @@ public class Canon extends Tower implements SpriteTransformation {
             .setEnhanceRange(0.05f)
             .setEnhanceReload(0.05f)
             .setUpgradeTowerName(DualCanon.ENTITY_NAME)
-            .setUpgradeCost(5600)
+            .setUpgradeCost(2800)
             .setUpgradeLevel(1)
             .build();
 

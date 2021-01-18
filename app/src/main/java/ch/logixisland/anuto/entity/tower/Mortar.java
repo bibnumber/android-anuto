@@ -45,7 +45,7 @@ public class Mortar extends Tower implements SpriteTransformation {
             .setEnhanceRange(0.05f)
             .setEnhanceReload(0.05f)
             .setUpgradeTowerName(MineLayer.ENTITY_NAME)
-            .setUpgradeCost(10000)
+            .setUpgradeCost(5000)
             .setUpgradeLevel(1)
             .build();
 

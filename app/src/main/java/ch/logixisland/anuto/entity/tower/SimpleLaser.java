@@ -39,7 +39,7 @@ public class SimpleLaser extends Tower implements SpriteTransformation {
             .setEnhanceRange(0.05f)
             .setEnhanceReload(0.1f)
             .setUpgradeTowerName(ch.logixisland.anuto.entity.tower.BouncingLaser.ENTITY_NAME)
-            .setUpgradeCost(7000)
+            .setUpgradeCost(3500)
             .setUpgradeLevel(1)
             .build();
 
