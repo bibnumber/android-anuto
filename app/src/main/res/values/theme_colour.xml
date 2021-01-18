@@ -35,7 +35,7 @@
         <item name="canonMgShot">@drawable/canon_mg_shot</item>
         <item name="canonShot">@drawable/canon_shot</item>
         <item name="flyer">@drawable/flyer_co</item>
-        <item name="glueEffect">@drawable/glue_effect</item>
+        <item name="glueEffect">@drawable/glue_effect_co</item>
         <item name="glueGun">@drawable/glue_gun_co</item>
         <item name="glueShot">@drawable/glue_shot_co</item>
         <item name="glueTowerGun">@drawable/glue_tower_gun_co</item>
