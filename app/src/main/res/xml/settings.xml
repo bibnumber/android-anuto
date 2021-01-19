@@ -4,7 +4,7 @@
     android:title="@string/settings">
     <ListPreference
         android:key="theme_index"
-        android:defaultValue="0"
+        android:defaultValue="2"
         android:entries="@array/theme_entries"
         android:entryValues="@array/theme_entry_values"
         android:title="@string/theme" />
