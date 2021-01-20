@@ -24,8 +24,8 @@ public class Blob extends Enemy implements SpriteTransformation {
             .setHealth(600)
             .setSpeed(0.5f)
             .setReward(20)
-            .setWeakAgainst(WeaponType.Explosive)
-            .setStrongAgainst(WeaponType.Bullet)
+            .setWeakAgainst(WeaponType.Schlag)
+            .setStrongAgainst(WeaponType.Saiten)
             .build();
 
     public static class Factory extends EntityFactory {

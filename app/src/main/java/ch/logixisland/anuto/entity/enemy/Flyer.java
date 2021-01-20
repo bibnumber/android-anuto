@@ -25,8 +25,8 @@ public class Flyer extends Enemy implements SpriteTransformation {
             .setHealth(400)
             .setSpeed(1.3f)
             .setReward(30)
-            .setWeakAgainst(WeaponType.Laser, WeaponType.Bullet)
-            .setStrongAgainst(WeaponType.Glue)
+            .setWeakAgainst(WeaponType.Tasten, WeaponType.Saiten)
+            .setStrongAgainst(WeaponType.Blas)
             .build();
 
     public static class Factory extends EntityFactory {

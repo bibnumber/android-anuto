@@ -27,8 +27,8 @@ public class Sprinter extends Enemy implements SpriteTransformation {
             .setHealth(200)
             .setSpeed(3.0f)
             .setReward(15)
-            .setWeakAgainst(WeaponType.Explosive)
-            .setStrongAgainst(WeaponType.Laser)
+            .setWeakAgainst(WeaponType.Schlag)
+            .setStrongAgainst(WeaponType.Tasten)
             .build();
 
     public static class Factory extends EntityFactory {

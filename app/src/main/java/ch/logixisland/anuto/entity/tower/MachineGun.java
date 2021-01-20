@@ -37,7 +37,7 @@ public class MachineGun extends Tower implements SpriteTransformation {
             .setRange(3.5f)
             .setReload(0.15f)
             .setMaxLevel(15)
-            .setWeaponType(WeaponType.Bullet)
+            .setWeaponType(WeaponType.Saiten)
             .setEnhanceBase(1.5f)
             .setEnhanceCost(750)
             .setEnhanceDamage(120)

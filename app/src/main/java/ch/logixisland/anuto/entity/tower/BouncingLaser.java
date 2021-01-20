@@ -33,7 +33,7 @@ public class BouncingLaser extends Tower implements SpriteTransformation {
             .setRange(3.0f)
             .setReload(1.5f)
             .setMaxLevel(10)
-            .setWeaponType(WeaponType.Laser)
+            .setWeaponType(WeaponType.Tasten)
             .setEnhanceBase(1.4f)
             .setEnhanceCost(580)
             .setEnhanceDamage(160)

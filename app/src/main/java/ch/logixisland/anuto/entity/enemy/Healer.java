@@ -38,7 +38,7 @@ public class Healer extends Enemy implements SpriteTransformation {
             .setHealth(400)
             .setSpeed(1.2f)
             .setReward(30)
-            .setWeakAgainst(WeaponType.Laser, WeaponType.Bullet)
+            .setWeakAgainst(WeaponType.Tasten, WeaponType.Saiten)
             .build();
 
     public static class Factory extends EntityFactory {
