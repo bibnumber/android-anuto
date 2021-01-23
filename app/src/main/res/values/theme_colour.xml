@@ -8,17 +8,17 @@
 
 
         <item name="textColor">#000000</item>
-        <item name="textDisabledColor">#ff0000</item>
-        <item name="textActiveColor">#009000</item>
+        <item name="textDisabledColor">#f4004c</item>
+        <item name="textActiveColor">#2c8450</item>
         <item name="backgroundColor">#ffffff</item>
-        <item name="healthBarColor">#222</item>
-        <item name="healthBarBackgroundColor">#88FFFFFF</item>
-        <item name="levelIndicatorColor">#030303</item>
-        <item name="rangeIndicatorColor">#8888</item>
-        <item name="explosionColor">#C8FFAA00</item>
-        <item name="laserColor">#B457D56F</item>
-        <item name="healEffectColor">#77EE2828</item>
-        <item name="teleportEffectColor">#79AF35AF</item>
+        <item name="healthBarColor">#49e22a</item>
+        <item name="healthBarBackgroundColor">#000000</item>
+        <item name="levelIndicatorColor">#f4004c</item>
+        <item name="rangeIndicatorColor">#49e22a</item>
+        <item name="explosionColor">#fbea00</item>
+        <item name="laserColor">#f4004c</item>
+        <item name="healEffectColor">#80749a</item>
+        <item name="teleportEffectColor">#f674a5</item>
 
         <item name="weakAgainstColor">#009000</item>
         <item name="strongAgainstColor">#c00000</item>

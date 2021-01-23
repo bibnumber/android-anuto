@@ -7,17 +7,17 @@
         <item name="normalActivityStyle">@style/OriginalTheme.Normal</item>
 
         <item name="textColor">#000000</item>
-        <item name="textDisabledColor">#ff0000</item>
-        <item name="textActiveColor">#009000</item>
+        <item name="textDisabledColor">#f4004c</item>
+        <item name="textActiveColor">#2c8450</item>
         <item name="backgroundColor">#ffffff</item>
-        <item name="healthBarColor">#00ff00</item>
+        <item name="healthBarColor">#49e22a</item>
         <item name="healthBarBackgroundColor">#000000</item>
-        <item name="levelIndicatorColor">#ff0000</item>
-        <item name="rangeIndicatorColor">#8000ff00</item>
-        <item name="explosionColor">#b4ffff00</item>
-        <item name="laserColor">#b4ff0000</item>
-        <item name="healEffectColor">#460000ff</item>
-        <item name="teleportEffectColor">#46ff00ff</item>
+        <item name="levelIndicatorColor">#f4004c</item>
+        <item name="rangeIndicatorColor">#49e22a</item>
+        <item name="explosionColor">#fbea00</item>
+        <item name="laserColor">#f4004c</item>
+        <item name="healEffectColor">#80749a</item>
+        <item name="teleportEffectColor">#f674a5</item>
 
         <item name="weakAgainstColor">#009000</item>
         <item name="strongAgainstColor">#c00000</item>
