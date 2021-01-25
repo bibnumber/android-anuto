@@ -44,7 +44,7 @@
         <item name="laserTower1">@drawable/laser_tower1_co</item>
         <item name="laserTower2">@drawable/laser_tower2_co</item>
         <item name="laserTower3">@drawable/laser_tower3_co</item>
-        <item name="mine">@drawable/mine</item>
+        <item name="mine">@drawable/mine_co</item>
         <item name="mineLayer">@drawable/mine_layer_co</item>
         <item name="mortar">@drawable/mortar_co</item>
         <item name="plateau1">@drawable/plateau1_co</item>
