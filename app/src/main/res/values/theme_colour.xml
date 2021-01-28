@@ -49,6 +49,7 @@
         <item name="mortar">@drawable/mortar_co</item>
         <item name="plateau1">@drawable/plateau1_co</item>
         <item name="rocket">@drawable/rocket_co</item>
+        <item name="rocketFire">@drawable/rocket_fire</item>
         <item name="rocketLauncher">@drawable/rocket_launcher_co</item>
         <item name="soldier">@drawable/soldier_co</item>
         <item name="sprinter">@drawable/sprinter_co</item>

@@ -100,7 +100,7 @@ public class GlueGun extends Tower implements SpriteTransformation {
     public Object initStatic() {
         StaticData s = new StaticData();
 
-        s.mSpriteTemplateBase = getSpriteFactory().createTemplate(R.attr.base1, 4);
+        s.mSpriteTemplateBase = getSpriteFactory().createTemplate(R.attr.base4, 4);
         s.mSpriteTemplateBase.setMatrix(1f, 1f, null, null);
 
         s.mSpriteTemplateCanon = getSpriteFactory().createTemplate(R.attr.glueGun, 6);
