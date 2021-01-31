@@ -1,6 +1,7 @@
 # PTSD - Pixel Tower Symphonic Defence
+![Github Banner Image](https://github.com/bibnumber/android-anuto/blob/master/sprites/Plakat/githubbanner.png?raw=true)
+PTSD is yet another tower defense clone for Android, although really it's a modded fork of the great [Anuto - Another Ugly Tower Defense](https://github.com/reloZid/android-anuto) with semi pixel arcade style optics and musical undertones.
 
-PTSD is yet another tower defense game for Android, although really it's a modded fork of the great [Anuto - Another Ugly Tower Defense](https://github.com/reloZid/android-anuto).
 
 ## Download
 
