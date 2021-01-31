@@ -6,7 +6,7 @@ PTSD is yet another tower defense clone for Android, although really it's a modd
 
 ## Download
 
-A first testing candidate will be released shortly...
+Check out APKs under Assets on the [release page](https://github.com/bibnumber/android-anuto/releases)
 
 ## How to play
 
