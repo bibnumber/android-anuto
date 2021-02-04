@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Anuto TD</string>
+    <string name="app_name">PTSD</string>
 
     <string name="menu">Menü</string>
     <string name="next_wave">Nächste</string>
@@ -70,14 +70,14 @@
     <string name="got_it">Weiter</string>
     <string name="skip_tutorial">Überspringen</string>
 
-    <string name="tutorial_build_tower">Willkommen zu Anuto TD! Beginne mit dem Bauen eines Turms: Ziehe einen Turm aus dem Inventar auf das Spielfeld.</string>
-    <string name="tutorial_credits">Wenn der Preis eines Turms rot wird, hast du nicht mehr genügend Guthaben, um diesen Turm zu bauen. Guthaben erhälst du durch das Ausschalten von Gegnern und das Beenden von Wellen.</string>
-    <string name="tutorial_tower_options_1">Tippe auf einen Turm, um seine Reichweite anzuzeigen. Tippe erneut, um sein Menü für weitere Optionen zu öffnen.</string>
-    <string name="tutorial_tower_options_2">Die Strategie definiert, wie der Turm sein Ziel auswählt. Ziel verfolgen heißt, dass der Turm sein Ziel nicht wechselt, solange es innerhalb der Reichweite bleibt.</string>
-    <string name="tutorial_tower_options_3">Verbessern macht den Turm leistungsfähiger. Aufwerten ersetzt den Turm durch einen Besseren.\n\n<b>Tipp:</b> Beachte, dass beim Aufwerten bereits gekaufte Verbesserungen verloren gehen.</string>
-    <string name="tutorial_tower_options_4">Verkaufen entfernt den Turm und du erhälst einen Teil des Guthabens zurück.\n\n<b>Tipp:</b> Türme verlieren im Laufe der Zeit an Wert.</string>
+    <string name="tutorial_build_tower">Willkommen zu PTSD! Beginne mit dem platzieren eines Instruments: Ziehe eine Instrument aus dem Inventar auf das Spielfeld.</string>
+    <string name="tutorial_credits">Wenn der Preis eines Instruments rot wird, hast du nicht mehr genügend Guthaben, um dieses Instrument zu platzieren. Guthaben erhälst du durch das Ausschalten von Gegnern und das Beenden von Wellen.</string>
+    <string name="tutorial_tower_options_1">Tippe auf ein Instrument, um seine Reichweite anzuzeigen. Tippe erneut, um sein Menü für weitere Optionen zu öffnen.</string>
+    <string name="tutorial_tower_options_2">Die Strategie definiert, wie das Instrument sein Ziel auswählt. Ziel verfolgen heißt, dass das Instrument sein Ziel nicht wechselt, solange es innerhalb der Reichweite bleibt.</string>
+    <string name="tutorial_tower_options_3">Verbessern macht das Instrument leistungsfähiger. Aufwerten ersetzt das Instrument durch einen Besseres.\n\n<b>Tipp:</b> Beachte, dass beim Aufwerten bereits gekaufte Verbesserungen verloren gehen.</string>
+    <string name="tutorial_tower_options_4">Verkaufen entfernt das Instrument und du erhälst einen Teil des Guthabens zurück.\n\n<b>Tipp:</b> Instrumente verlieren im Laufe der Zeit an Wert.</string>
     <string name="tutorial_next_wave">Drücke \"Nächste\", um die nächste Welle von Gegnern zu starten. Das Ziel ist, dass keiner durch deine Verteidigung kommt.\n\n<b>Tipp:</b> Wenn du die nächste Welle startest, während noch Wellen aktiv sind, erhälst du einen Bonus!</string>
-    <string name="tutorial_enemies">Wenn ein Gegner den Pfad beendet, verlierst du ein Leben. Das Spiel ist vorbei, wenn du keine Leben mehr hast.\n\n<b>Tipp:</b> Einige Türme sind effektiver gegen gewisse Arten von Gegnern als andere.</string>
+    <string name="tutorial_enemies">Wenn ein Gegner den Pfad beendet, verlierst du ein Leben. Das Spiel ist vorbei, wenn du keine Leben mehr hast.\n\n<b>Tipp:</b> Einige Instrumente sind effektiver gegen gewisse Arten von Gegnern als andere.</string>
     <string name="tutorial_finish">Viel Spaß! Das Tutorial lässt sich in den Einstellungen erneut aktivieren.</string>
     <string name="map_higgledy_piggledy_name">Kreuz und Quer</string>
     <string name="map_big_u_name">Großes U</string>
